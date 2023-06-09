@@ -37,3 +37,11 @@ A1 TEST chars Account Planning - é&"'§èàçù$@ Acquisition Management
 #### Result
 * Catalog :x:
 * Summary :x:
+
+## Business Process (RTO/RPO Mapping)
+#### Added Instances
+Process : A1 TEST chars Account Planning - é&"'§èàçù$@ Action Hedging
+#### Result
+* Catalog :x:
+* Summary :white_check_mark:
+

@@ -23,12 +23,16 @@ https://enterprise-architecture.org/forums/viewtopic.php?f=22&t=2950
 #### Added Instances
 A1 TEST chars Account Planning - é&"'§èàçù$@
 #### Result
-* Instance summary : OK
-* Catalog by Name : KO
+* Instance summary : :white_check_mark:
+* Catalog by Name : :x:
 ## Composite_Application_Provider
 #### Added Instances
 A1 TEST chars Account Planning - é&"'§èàçù$@ ADEXCell Energy Manager
 #### Result
-* Catalog KO
-* Summary KO
-
+* Catalog :x:
+* Summary :x:
+## Business Capability
+#### Added Instances
+A1 TEST chars Account Planning - é&"'§èàçù$@ Acquisition Management
+* Catalog :x:
+* Summary :x:

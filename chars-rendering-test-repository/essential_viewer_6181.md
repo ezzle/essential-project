@@ -23,6 +23,12 @@ https://enterprise-architecture.org/forums/viewtopic.php?f=22&t=2950
 #### Added Instances
 A1 TEST chars Account Planning - é&"'§èàçù$@
 #### Result
-* Instance summary rendered correctly
-* Catalog by Name : Incorect rendering
+* Instance summary : OK
+* Catalog by Name : KO
+## Composite_Application_Provider
+#### Added Instances
+A1 TEST chars Account Planning - é&"'§èàçù$@ ADEXCell Energy Manager
+#### Result
+* Catalog KO
+* Summary KO
 

@@ -19,6 +19,10 @@ https://enterprise-architecture.org/forums/viewtopic.php?f=22&t=2950
 * View: Business Capability Tree
 * etc...
 
-## Added Instances
-#### Application Capability
+## Application Capability
+#### Added Instances
 A1 TEST chars Account Planning - é&"'§èàçù$@
+#### Result
+* Instance summary rendered correctly
+* Catalog by Name : Incorect rendering
+

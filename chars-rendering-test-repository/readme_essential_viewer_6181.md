@@ -4,7 +4,7 @@
 https://enterprise-architecture.org/forums/viewtopic.php?f=22&t=2950
 
 # Initial demo repository fron EAS
-https://github.com/ezzle/essential-project/edit/main/chars-rendering-test-repository/v6.18_demo_os.zip
+https://github.com/ezzle/essential-project/blob/main/chars-rendering-test-repository/v6.18_demo_os.zip
 # Adapted repository
 
 ## Impacted views list

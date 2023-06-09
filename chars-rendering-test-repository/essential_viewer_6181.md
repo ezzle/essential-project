@@ -17,4 +17,8 @@ https://enterprise-architecture.org/forums/viewtopic.php?f=22&t=2950
 * View: Application Reference Model
 * View: Business Process RTO/RPO Mapping
 * View: Business Capability Tree
-etc...
+* etc...
+
+## Added Instances
+### Application Capability
+A1 TEST chars Account Planning - é&"'§èàçù$@

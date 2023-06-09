@@ -34,5 +34,6 @@ A1 TEST chars Account Planning - é&"'§èàçù$@ ADEXCell Energy Manager
 ## Business Capability
 #### Added Instances
 A1 TEST chars Account Planning - é&"'§èàçù$@ Acquisition Management
+#### Result
 * Catalog :x:
 * Summary :x:

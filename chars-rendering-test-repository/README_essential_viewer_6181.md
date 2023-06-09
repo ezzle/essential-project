@@ -6,7 +6,7 @@ https://enterprise-architecture.org/forums/viewtopic.php?f=22&t=2950
 # Initial demo repository fron EAS
 https://github.com/ezzle/essential-project/blob/main/chars-rendering-test-repository/v6.18_demo_os.zip
 # Adapted repository
-
+https://github.com/ezzle/essential-project/blob/main/chars-rendering-test-repository/v6.18_demo_os_test_chars_rendering.zip
 ## Impacted views list
 * View: Application Capability Catalogue by Name
 * View: Application Catalogue
